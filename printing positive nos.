@@ -1,0 +1,13 @@
+list1 =(7 ,-13, 9 ,-10 ,3);
+list2 =(89, -56, 45, 31, 40);
+print (list1)
+print ("positive nos. in list are:")
+for num1 in list1:
+    if num1>=0:
+        print (num1," ");
+        
+print(list2)
+print ("positive nos. in list are:")
+for num2 in list2:
+    if num2>=0:
+        print (num2," ");
